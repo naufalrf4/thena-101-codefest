@@ -1,0 +1,5 @@
+service: () -> {
+    getName: (text, text) -> (text) query;
+    setName: (text, text) -> (text);
+    setNameTemp: (text, text) -> (text) query;
+}
